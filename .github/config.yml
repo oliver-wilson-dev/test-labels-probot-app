@@ -1,6 +1,6 @@
 ---
 labels:
-  noOfApprovalsRequired: 2
+  noOfApprovalsRequired: 5
   approvalColour: 0770CF
   allApprovalsColour: 008000
 developers:
