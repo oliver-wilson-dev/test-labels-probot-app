@@ -1,0 +1,10 @@
+---
+labels:
+  noOfApprovalsRequired: 5
+  approvalColour: 0770CF
+  allApprovalsColour: 008000
+developers:
+- oliver-wilson-dev
+- asos-oliver-wilson
+QAs:
+- someone-else
