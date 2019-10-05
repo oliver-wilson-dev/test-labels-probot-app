@@ -1,6 +1,6 @@
 {
     "labels": {
-      "noOfApprovalsRequired": 5,
+      "noOfApprovalsRequired": 2,
       "approvalColour": "0770CF",
       "allApprovalsColour": "008000"
     },
